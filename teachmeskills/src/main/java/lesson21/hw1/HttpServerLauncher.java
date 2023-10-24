@@ -1,5 +1,7 @@
-package main.java.lesson21.hw1;
+package lesson21.hw1;
+
 import com.sun.net.httpserver.HttpServer;
+
 import java.io.IOException;
 import java.net.InetSocketAddress;
 public class HttpServerLauncher {

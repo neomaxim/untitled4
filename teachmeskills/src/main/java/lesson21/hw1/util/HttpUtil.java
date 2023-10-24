@@ -1,7 +1,6 @@
-package main.java.lesson21.hw1.util;
+package lesson21.hw1.util;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Collectors;
 

@@ -1,4 +1,4 @@
-package main.java.lesson21.hw1;
+package lesson21.hw1;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import main.java.lesson21.hw1.util.HttpUtil;
